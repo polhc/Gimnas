@@ -52,5 +52,5 @@ int main() {
 
 	Tarifa tarifa_1;
 	SociVIP soci_2("Ana", 20, tarifa_1, 3.0);
-	cout << "Quota soci VIP: " << soci_2.calcularQuota() << endl;
+	cout << "Quota Soci VIP: " << soci_2.calcularQuota() << endl;
 }
