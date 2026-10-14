@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gimnas/Gimnas.vcxproj" Id="0b3a1a88-f296-41b3-9b59-f5682ff0a8e9" />
+</Solution>
